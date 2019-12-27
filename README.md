@@ -4,7 +4,10 @@ This repository contains a application on finding the dormant color for image se
 
 ## Dependencies
  - Numpy
-  Matplotlib
-  OpenCV
-  Scipy
+ 
+ - Matplotlib
+ 
+ - OpenCV
+ 
+ - Scipy
   
